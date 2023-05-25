@@ -4,15 +4,28 @@
 
 The Project is a clone of [Walmart Website](https://www.walmart.com) with all design and functionality built using HTML, CSS and Javascript.
 below are the features of the application:
-- [Home Page](https://www.walmart.com)
+- [Home Page](#)
 - [User Registration](https://silver-crostata-a527c0.netlify.app/pages/signup.html)
 - [User Login](https://silver-crostata-a527c0.netlify.app/pages/signinemail)
+- [Home Page](#)
+- [Product Page](#)
+- [Product Details Page](#)
+- [Cart Page](#)
+- [Checout Page](#)
 
-## Setup
-- Clone this project on local
+
+
+
+
+
+## Build
+- Clone this project
+- goto project directory 
+- Run `npm install`
 
 ## Run
-Open index.html in the browser
+- After build is complete
+- Run `npm run start`
 
 ### Contributors
 - @shabbiryahya
